@@ -7,7 +7,7 @@ export default function Hr({img, name}) {
             <img className='w-auto h-30 mt-1.5 rounded-b-full' src={img} alt="" />
         </div>
         <div>
-            <h1 className='text-5xl font-serif p-2 text-white'>{name}</h1>
+            <h1 className='text-2xl md:text-5xl font-serif p-2 text-white'>{name}</h1>
         </div>
     </div>
   )
