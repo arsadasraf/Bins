@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-    <div className="flex flex-col ">
+    <div className="flex flex-col  ml-10">
     <Header/>
     <Hero/>
     <Module/>
